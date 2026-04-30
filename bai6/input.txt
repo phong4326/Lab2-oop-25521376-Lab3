@@ -1,0 +1,41 @@
+10
+TS001
+Nguyen Van An
+10 5 2005
+8.0 7.5 9.0
+TS002
+Tran Thi Bich
+20 3 2006
+9.0 8.0 9.5
+TS003
+Le Van Cuong
+5 8 2005
+6.0 7.0 8.0
+TS004
+Pham Thi Dung
+15 11 2006
+5.0 6.0 7.0
+TS005
+Hoang Van Em
+1 1 2005
+9.5 9.0 10.0
+TS006
+Vu Thi Phuong
+3 7 2005
+7.0 8.0 6.5
+TS007
+Do Minh Quan
+22 9 2006
+4.5 5.0 5.5
+TS008
+Bui Thi Hoa
+17 4 2005
+8.5 7.0 8.0
+TS009
+Cao Van Hung
+8 12 2006
+6.5 7.5 8.5
+TS010
+Dinh Thi Kieu
+25 2 2005
+9.0 9.5 8.5
