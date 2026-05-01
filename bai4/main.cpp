@@ -28,8 +28,8 @@ int main() {
     cout << "\nChon cach sap xep mang tang dan/giam dan tuong ung voi 1/0: ";
     do {
         cin >> x;
-        if (!(x = 1 || x == 0)) cout << "\nLoi! CHI NHAP 1 HOAC 0: ";
-    } while (!(x = 1 || x == 0));
+        if (!(x == 1 || x == 0)) cout << "\nLoi! CHI NHAP 1 HOAC 0: ";
+    } while (!(x == 1 || x == 0));
     if (x) {
         cout << "Mang duoc sap xem tang dan: ";
         a.cArrayQuicksort(true);
